@@ -5,7 +5,7 @@ Requirement :
 Let's Design system Which is not scalable first.
 
 [A-Z,a-z,0-9]  = 62 character.
-shorlurl has 7 bit long.62^7 = 3.5 Trillion = 2^43
+shorlurl will be 7 bit long.62^7 = 3.5 Trillion = 2^43
 
               
 Database Design :
