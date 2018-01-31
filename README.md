@@ -236,3 +236,39 @@ http://www.geeksforgeeks.org/find-a-mother-vertex-in-a-graph/
 https://dzone.com/articles/java-garbage-collector-and-reference-objects
 https://dzone.com/articles/java-memory-and-cpu-monitoring-tools-and-technique
 https://dzone.com/articles/how-to-reduce-long-gc-pause
+
+
+
+R:
+
+1. Tell Me Something About Yourself? https://lnkd.in/fAN9BZ3
+2. Tell Me Something About Yourself? Part-2 https://lnkd.in/fhjfd5M
+3. What Are Your Weaknesses? https://lnkd.in/f-7B3NF
+4. Do's and Don'ts In An Interview: https://lnkd.in/frRj42A
+5. How to Have a Successful Job Interview: https://lnkd.in/f66HbSC
+6. What Are Your Strengths?:https://lnkd.in/fnpnWfc
+7. Interview Success MasterClass - Learn How To Pass Job Interviews: https://lnkd.in/fvxuyr6
+8. How to choose your Career?: https://lnkd.in/fCVGDzF
+9. What Are Your Salary Expectations?: https://lnkd.in/eEGXQZ6
+
+Selenium and TestNG Interview Questions and Answers:
+
+1. Selenium Webdriver: https://lnkd.in/fNJQcYi
+2. TestNG Framework: https://lnkd.in/fiPptRM
+
+Blog Link: https://lnkd.in/fCBdciK
+Subscription link: https://lnkd.in/f37ZP9s
+LinkedIn Group Link: https://lnkd.in/euWm4FA
+
+
+
+https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444
+
+
+
+https://geekibuti.blogspot.in/2016/10/design-messaging-service-like-whatsapp.html
+https://blog.contus.com/how-whatsapp-works-technically-and-how-to-build-an-app-similar-to-it/
+
+
+
+
